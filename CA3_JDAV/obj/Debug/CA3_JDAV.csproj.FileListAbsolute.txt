@@ -1,0 +1,6 @@
+c:\users\home\documents\visual studio 2013\Projects\CA3_JDAV\CA3_JDAV\bin\Debug\CA3_JDAV.exe.config
+c:\users\home\documents\visual studio 2013\Projects\CA3_JDAV\CA3_JDAV\bin\Debug\CA3_JDAV.exe
+c:\users\home\documents\visual studio 2013\Projects\CA3_JDAV\CA3_JDAV\bin\Debug\CA3_JDAV.pdb
+c:\users\home\documents\visual studio 2013\Projects\CA3_JDAV\CA3_JDAV\obj\Debug\CA3_JDAV.csprojResolveAssemblyReference.cache
+c:\users\home\documents\visual studio 2013\Projects\CA3_JDAV\CA3_JDAV\obj\Debug\CA3_JDAV.exe
+c:\users\home\documents\visual studio 2013\Projects\CA3_JDAV\CA3_JDAV\obj\Debug\CA3_JDAV.pdb
